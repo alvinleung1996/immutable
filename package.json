@@ -1,0 +1,17 @@
+{
+  "name": "@alvinleung1996/immutable",
+  "version": "1.0.0",
+  "description": "A wrapper over 'immutable' to provide stricter type safety",
+  "main": "./out/immutable.js",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
